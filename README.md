@@ -1,4 +1,4 @@
-# Spatio-Temporal Health Analytics and Visualization
+# SpatioHealth: Spatio-Temporal Health Analytics and Visualization
 
 
 ## Overview
