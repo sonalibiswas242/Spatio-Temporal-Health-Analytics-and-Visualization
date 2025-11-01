@@ -61,7 +61,4 @@ Includes data on:
 - Risk factors
 - Geographic and temporal dimensions
 
----
-
-## Architecture
 
